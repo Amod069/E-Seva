@@ -1,0 +1,2 @@
+rootProject.name='Adobe UI'
+include ':app'

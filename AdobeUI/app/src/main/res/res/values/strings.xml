@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home strings -->
+
+	<string name="app_name">Home</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome_string">Welcome</string>
+	<string name="login_string">Login</string>
+	<string name="not_a_member___register_string">Not a member ? Register</string>
+</resources>
